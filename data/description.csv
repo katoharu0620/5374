@@ -1,4 +1,4 @@
 label,sublabel,description,styles,bgcolor
-可燃ゴミ,,,img/moyasanai02.svg,#733b96
+燃えるゴミ,,,img/moyasanai02.svg,#733b96
 資源,,,img/shigen02.svg,#77ae1f
-不燃ゴミ,,,img/moyasu02.svg,#ea3b13
+燃えないゴミ,,,img/moyasu02.svg,#ea3b13
